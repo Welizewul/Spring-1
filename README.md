@@ -15,12 +15,7 @@
 
 **Проект выполняет операции сериализации и десериализации объектов класса Person с использованием различных библиотек: Jackson, Gson и Apache Commons Lang.**
 
-### Прямые ссылки на файлы
-[pom.xml](https://github.com/ShumAhd/Spring-framework-1/blob/main/pom.xml)
 
-[class App](https://github.com/ShumAhd/Spring-framework-1/blob/main/src/main/java/ro/shum/App.java)
-
-[class Person](https://github.com/ShumAhd/Spring-framework-1/blob/main/src/main/java/ro/shum/Person.java)
 
 ### Вывод в консоль
 ```agsl
